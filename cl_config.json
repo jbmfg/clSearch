@@ -1,0 +1,8 @@
+{
+	"url" : "http://maine.craigslist.org/search/sss?format=rss&sort=date&postedToday=1&query=",
+	"pushover_user" : "",
+	"pushover_token" : "",
+	"things_to_get": [
+		"gameboy", "'game gear'", "Nvidia Sheild", "'raspberry pi'", "'amazon echo'", "ubiquiti", "gamepark", "dingoo", "pebble", "microscope", "gba", "'google home'", "volvo c30", "paperwhite", "nuc", "sega", "rockford"
+	]
+}
